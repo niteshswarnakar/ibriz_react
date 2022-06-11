@@ -13,7 +13,7 @@
 
 .hero-section {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: 40px 60px 0 60px;
   align-items: center;
 }
@@ -71,6 +71,6 @@
   margin-left: 200px;
 }
 
-.img {
-  height: 20vh;
+.myimage {
+  width: 100%;
 }

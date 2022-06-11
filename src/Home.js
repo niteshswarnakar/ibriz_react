@@ -23,7 +23,10 @@ function Home() {
           </div>
         </div>
         <div className="section-right">
-          <img src="https://imgs.search.brave.com/l5gZZmweE_gWtEVeEErINfAKuBKx8GRJq95Njhu04tw/rs:fit:600:450:1/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvb2ZmaWNl/LWVtcGxveWVlcy13/b3JraW5nLXRvZ2V0/aGVyLWZvci1uZXct/aWRlYS0yNzM5MTkw/LTIyNzc1MDAucG5n" />
+          <img
+            className="myimage"
+            src="https://imgs.search.brave.com/l5gZZmweE_gWtEVeEErINfAKuBKx8GRJq95Njhu04tw/rs:fit:600:450:1/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvb2ZmaWNl/LWVtcGxveWVlcy13/b3JraW5nLXRvZ2V0/aGVyLWZvci1uZXct/aWRlYS0yNzM5MTkw/LTIyNzc1MDAucG5n"
+          />
         </div>
       </section>
     </div>
