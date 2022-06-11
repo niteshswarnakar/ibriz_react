@@ -1,0 +1,17 @@
+.login-button {
+  letter-spacing: 1px;
+  font-size: 1rem;
+  background-color: var(--mainColor);
+  border-radius: 5px;
+  border: 1px solid red;
+  align-self: flex-start;
+  padding: 8px;
+  font-weight: 600;
+}
+
+.login-button:hover {
+  /* background-color: #f61744; */
+
+  box-shadow: 0 0 20px var(--mainColor);
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+:root {
+  --mainColor: #db143b;
+  --secondaryColor: #ffffff;
+  --greyColor: #050505;
+}
+
+.input-box {
+  height: 2rem;
+  width: 100%;
+  border: 2px solid var(--greyColor);
+
+  border-bottom: 2px solid var(--mainColor);
+}
